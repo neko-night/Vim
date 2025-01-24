@@ -40,6 +40,6 @@ Plugin 'neko-night/Vim'
 
 * Install with vim-plug
 
-```
+```vim
 Plug 'neko-night/Vim'
 ```
